@@ -30,15 +30,9 @@ public class MatrixScreen {
 	/* color = 1 green; color = 2 red */
 	private boolean updateGridContent(int page, int x, int y, String text, int textColor) {
 		/* talking with HW interface */
-		/* lines of code
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * */
+		/* 
+		 * lines of code
+		 */		
 		return true;
 	}
 
@@ -49,21 +43,8 @@ public class MatrixScreen {
 	public boolean showStockInfo(String stockName, int stockID, StockPosition pos, float currentPrice, float openPrince,
 			float increasePercentage, float strikeCount, float totalStrikePrice, float avarageStrikePrice, int textColor) {
 		/*calling updateGridContent() to update screen buffer*/
-		/* lines of code
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
-		 * 
+		/* 
+		 * lines of code
 		 */
 		return true;
 	}
